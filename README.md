@@ -1,5 +1,5 @@
 # Insight-Innovators-Group-12-
-GitHub Repository for collaboration
+
 # 🫀 Heart Disease Prediction Analysis  
 ### *A Data-Driven Approach to Healthcare*
 
